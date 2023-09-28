@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Practical Git Guide for beginners</h1>
-  <h3>Practical guide to everyday Git commands</h3>
+  <h3>Practical guide to everyday Git commands to learn about Git and Github</h3>
   
   <p>
     <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/git-lean-guide?style=for-the-badge"></a>
