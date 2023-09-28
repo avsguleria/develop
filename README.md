@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Practical Git Guide</h1>
+  <h1>Practical Git Guide for beginners</h1>
   <h3>Practical guide to everyday Git commands</h3>
   
   <p>
@@ -19,7 +19,7 @@
 
 ---
 
-### Contents
+### Contents 
 
 1. [I want to clone a project and start going through the code.](#1-i-want-to-clone-a-project-and-start-going-through-the-code)
 1. [I have cloned the repo. But I am not able to see the proper code!!!](#2-i-have-cloned-the-repo-but-i-am-not-able-to-see-the-proper-code)
@@ -611,7 +611,7 @@ Revert will reverse the changes creating a new commit. If you want to remove the
 <img width="707" alt="undo" src="https://user-images.githubusercontent.com/12962887/181600183-a5fb2095-d0cc-4c4e-ae68-3f4eea209979.png">
 
 Note: Force push is needed as the history of the branch is changing in this. If the commit is not pushed then it is not needed.
-
+###something else added#####
 <br>
 <br>
 
@@ -619,4 +619,5 @@ Note: Force push is needed as the history of the branch is changing in this. If 
 
 ### License
 
-This repository is MIT licensed. [Read more](./LICENSE)
+This repository is MIT licensed. [Read more](./LICENSE).
+####END########
